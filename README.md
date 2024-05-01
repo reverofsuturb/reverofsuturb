@@ -4,6 +4,10 @@ Born in Boston and raised in the mountains of Colorado, I've cultivated a divers
 
 Well that felt formal.
 
+[Portfolio](https://reverofsuturb.github.io/portfolio/)
+
+[Linked In](https://www.linkedin.com/in/samuel-friedman-451a4b269/)
+
 Here's a picture of furious code-driven space lobsters:
 ![spacelobster](https://github.com/reverofsuturb/reverofsuturb/assets/123116188/07a3ef33-3605-4e2c-86c5-2de432435267)
 
